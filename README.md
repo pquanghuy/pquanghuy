@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Huy
 
-<!--
-**pquanghuy/pquanghuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iOS developer · Performance diagnostics & bug fixing**
 
-Here are some ideas to get you started:
+I focus on iOS app performance, debugging, and reliability, with a particular interest in WKWebView and StoreKit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of focus
+
+- **Performance diagnostics** — app launch time, UI responsiveness, and memory usage.
+- **Debugging & bug fixing** — crashes, unexpected behavior, and regressions.
+- **WKWebView** — navigation, native–web communication, and web content integration.
+- **StoreKit** — in-app purchases, transaction handling, and purchase restoration.
+
+## Connect
+
+Open to technical discussions and collaboration. [Get in touch on GitHub](https://github.com/pquanghuy/pquanghuy/issues).
