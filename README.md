@@ -28,6 +28,16 @@ An independent iOS demo of native–web integration with SwiftUI and WebKit.
 
 [Explore the code](https://github.com/pquanghuy/wkwebview-lab) · [Read the case study](https://github.com/pquanghuy/wkwebview-lab/blob/main/docs/CASE-STUDY.md)
 
+### [StoreKit Lab](https://github.com/pquanghuy/storekit-lab)
+
+A SwiftUI and StoreKit 2 demo of a one-time Pro purchase.
+
+- Verified purchases, explicit restoration, and entitlement updates after refunds.
+- Ask to Buy handling without granting access before approval.
+- Two passing local simulator UI tests, StoreKit configuration, and a documented case study.
+
+[Explore the code](https://github.com/pquanghuy/storekit-lab) · [Read the case study](https://github.com/pquanghuy/storekit-lab/blob/main/docs/CASE-STUDY.md)
+
 ## Connect
 
 
