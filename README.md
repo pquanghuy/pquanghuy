@@ -1,45 +1,19 @@
 # Hi, I'm Huy
 
+**iOS Developer — Bug Fixing, WKWebView & StoreKit**
 
-**iOS developer · Performance diagnostics & bug fixing**
+I focus on debugging iOS apps, native–web integration and purchase flows. My independent portfolio includes runnable demos, regression tests and scoped performance measurements.
 
+## Selected work
 
-I focus on iOS app performance, debugging, and reliability, with a particular interest in WKWebView and StoreKit.
+- **[Trip Journal](https://github.com/pquanghuy/trip-journal)** — offline SwiftUI app with data migrations and measured search/PDF improvements. On a physical iPhone 13 mini using a synthetic fixture, rare-search medians fell from 457–475 ms to about 12 ms, and photo PDF export from 10.7–11.0 s to 3.44–3.48 s. Small-sample operation measurements; see the repository for scope and limitations.
+- **[WKWebView Lab](https://github.com/pquanghuy/wkwebview-lab)** — validated native–web messaging, navigation boundaries and explicit lifecycle cleanup, with policy and simulator integration tests.
+- **[StoreKit Lab](https://github.com/pquanghuy/storekit-lab)** — StoreKit 2 non-consumable purchase, restoration, refund and pending-approval scenarios with local simulator tests.
 
+### Case studies
 
-## Areas of focus
+[Performance diagnostics](https://github.com/pquanghuy/trip-journal/blob/main/docs/FREELANCE-CASE-STUDY.md) · [WKWebView integration](https://github.com/pquanghuy/wkwebview-lab/blob/main/docs/FREELANCE-CASE-STUDY.md) · [StoreKit purchase flows](https://github.com/pquanghuy/storekit-lab/blob/main/docs/FREELANCE-CASE-STUDY.md)
 
+For a focused iOS issue, I can discuss reproduction steps, a scoped investigation and regression checks before estimating the implementation.
 
-- **Performance diagnostics** — app launch time, UI responsiveness, and memory usage.
-- **Debugging & bug fixing** — crashes, unexpected behavior, and regressions.
-- **WKWebView** — navigation, native–web communication, and web content integration.
-- **StoreKit** — in-app purchases, transaction handling, and purchase restoration.
-
-
-## Projects
-
-### [WKWebView Lab](https://github.com/pquanghuy/wkwebview-lab)
-
-An independent iOS demo of native–web integration with SwiftUI and WebKit.
-
-- Request/reply messaging with payload validation and main-frame authorization.
-- Controlled navigation, explicit lifecycle cleanup, and recovery states.
-- Policy unit tests, a simulator UI test, and screenshots from a successful run.
-
-[Explore the code](https://github.com/pquanghuy/wkwebview-lab) · [Read the case study](https://github.com/pquanghuy/wkwebview-lab/blob/main/docs/CASE-STUDY.md)
-
-### [StoreKit Lab](https://github.com/pquanghuy/storekit-lab)
-
-A SwiftUI and StoreKit 2 demo of a one-time Pro purchase.
-
-- Verified purchases, explicit restoration, and entitlement updates after refunds.
-- Ask to Buy handling without granting access before approval.
-- Two passing local simulator UI tests, StoreKit configuration, and a documented case study.
-
-[Explore the code](https://github.com/pquanghuy/storekit-lab) · [Read the case study](https://github.com/pquanghuy/storekit-lab/blob/main/docs/CASE-STUDY.md)
-
-## Connect
-
-
-Open to technical discussions and collaboration. [Get in touch on GitHub](https://github.com/pquanghuy/pquanghuy/issues).
-
+[Contact through GitHub](https://github.com/pquanghuy/pquanghuy/issues)
